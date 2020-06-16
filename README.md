@@ -1,7 +1,7 @@
 # JavaScript-hero-game
 
 ##### Interface
-![pic](https://github.com/hanzs9/Society-Activities-Backend/blob/master/interface.png)
+![pic](https://github.com/hanzs9/JavaScript-hero-game/blob/master/interface.png)
 
 
 
