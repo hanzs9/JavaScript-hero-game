@@ -1,0 +1,43 @@
+body {
+background-image: url("background.jpg");
+}
+td {
+border: 1px solid black;
+width: 3em;
+height: 3em;
+text-align: center;
+}
+div.RedBG  { background-color: #f00; }
+#name{
+text-align:center;
+}
+#counter{
+width: 500px;
+height: 30px;
+margin: 0 auto;
+}
+#t1{
+margin: 0 auto;
+}
+#d1{
+text-align:center;
+}
+#m1{
+text-align:center;
+}
+.button{
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10px;
+margin: 4px 2px;
+cursor: pointer;
+}
+span{
+color: green;
+text-align: center;
+}
